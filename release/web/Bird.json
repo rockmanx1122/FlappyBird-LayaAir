@@ -1,0 +1,1 @@
+{"type":"Panel","props":{"name":"Bird","visible":false,"presetID":1,"isPresetRoot":true,"x":0,"y":0},"compId":5,"child":[{"type":"Animation","props":{"source":"BirdFly.ani","name":"BirdFly","presetID":2},"compId":6},{"type":"Script","props":{"presetID":3,"runtime":"Bird.ts"},"compId":7}],"loadList":["BirdFly.ani"],"loadList3D":[]}

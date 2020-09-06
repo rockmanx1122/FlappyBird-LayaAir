@@ -1,0 +1,5 @@
+<res>
+   <item name="sprites/background-day.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="1" scale="0"/>
+   <item name="sprites/base.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="1" scale="0"/>
+   <item name="sprites/background-night.png" type="Button" compress="0" pack="0" quality="80" props="" picType="1" scale="0"/>
+</res>
